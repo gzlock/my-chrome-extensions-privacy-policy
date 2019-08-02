@@ -1,2 +1,2 @@
-# my-chrome-extensions-privacy-policy-
-my chrome extensions privacy policy 
+# Simple Extension
+[Privacy Policy](https://github.com/gzlock/simple-extension/blob/master/PrivacyPolicy.md)
